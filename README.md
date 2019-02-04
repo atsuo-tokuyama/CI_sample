@@ -1,0 +1,2 @@
+# CI_sample
+Jenkinsを使ったCIデモに使うサンプルプロジェクト
